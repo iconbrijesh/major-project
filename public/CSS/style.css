@@ -101,3 +101,10 @@ body{
     background: rgb(202, 80, 80);
     
 }
+
+/* map */
+
+#map{
+   height:400px;
+   width:80vh;
+}
